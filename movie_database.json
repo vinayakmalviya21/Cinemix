@@ -1,0 +1,152 @@
+{
+  "movies": [
+    {
+      "name": "Dilwale Dulhania Le Jayenge",
+      "year": 1995,
+      "description": "A romantic drama that unfolds in Switzerland where Raj and Simran, two people from Indian backgrounds born and raised in Britain, meet and fall in love. However, Simran's traditional father takes her back to India to fulfill a betrothal promise. Raj follows her and, with the help of his friends, tries to win over her family and convince them to let him marry Simran. The film beautifully portrays the clash between tradition and modernity, love and duty. It has become a cult classic in Bollywood, celebrated for its iconic scenes, memorable dialogues, and timeless songs.","rated":"20",
+      "rating":"93",
+      "image":"https://filmfare.wwmindia.com/content/2024/jan/dilwaledulhanialejayenge41705293499.jpg"
+    },
+    {
+      "name": "3 Idiots",
+      "year": 2009,
+      "description": "A comedy-drama film that revolves around three friends - Rancho, Farhan, and Raju - studying engineering at an elite college in India. Rancho is an innovative and free-thinking student who inspires his friends to pursue their passions rather than conforming to societal expectations. The film intertwines their college days with the present, where they embark on a journey to find their lost friend. Through humor and heartwarming moments, '3 Idiots' addresses the pressures of the Indian education system, the importance of following one's dreams, and the value of friendship. It's a film that entertains, educates, and inspires.","rated":"20",
+      "rating":"95",
+      "image":"https://m.media-amazon.com/images/S/pv-target-images/0e767d7b964d2469c89d242d6bc4d6619e2eec1c4829a6c8d97055a108e78a5b.jpg"
+    },
+    {
+      "name": "Lagaan",
+      "year": 2001,
+      "description": "Set in Victorian India during the British Raj, 'Lagaan' tells the story of a small village that challenges the British rulers to a cricket match to avoid paying a hefty land tax (Lagaan). Bhuvan, the village's young and determined leader, rallies the villagers to learn and play cricket, a game unfamiliar to them. As the match approaches, tensions rise, friendships are tested, and the villagers face adversity with courage and resilience. The film is a blend of sports, drama, and romance, highlighting the spirit of unity and determination. 'Lagaan' received widespread acclaim for its storytelling, performances, and music, earning nominations for the Academy Awards and winning numerous awards.","rated":"20",
+      "rating":"90",
+      "image":"https://m.media-amazon.com/images/M/MV5BNDYxNWUzZmYtOGQxMC00MTdkLTkxOTctYzkyOGIwNWQxZjhmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "PK",
+      "year": 2014,
+      "description": "'PK' is a satirical comedy-drama that follows the journey of an alien named PK, played by Aamir Khan, who lands on Earth and loses his communication device, which is his only way to contact his spaceship. As he navigates the complexities of human society, PK's innocent questions about religion, God, and rituals provoke thought-provoking discussions. The film challenges religious dogmas and encourages viewers to question blind faith and superstitions. Along his journey, PK forms relationships with various people, including a journalist named Jaggu, played by Anushka Sharma, and they work together to retrieve PK's device. 'PK' is a humorous yet poignant commentary on society's beliefs and practices.",
+      "rated":"20",
+      "rating":"90",
+      "image":"https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11290399_p_v8_ad.jpg"
+    },
+    {
+      "name": "Queen",
+      "year": 2013,
+      "description": "'Queen' is a heartwarming comedy-drama that follows the story of Rani, a young woman from Delhi whose life takes an unexpected turn when her fiancé calls off their wedding. Rather than wallowing in sorrow, Rani decides to embark on her pre-planned honeymoon to Paris and Amsterdam alone. As she navigates unfamiliar territories, Rani discovers her independence, strength, and self-worth. She makes new friends, tries new experiences, and learns valuable life lessons along the way. 'Queen' is a celebration of self-discovery, resilience, and empowerment. Kangana Ranaut's portrayal of Rani received widespread acclaim, earning her several awards for Best Actress.",
+      "rated":"10",
+      "rating":"65",
+      "image":"https://m.media-amazon.com/images/M/MV5BMTQ1ODUxMzA1Nl5BMl5BanBnXkFtZTgwNDk0NjMyMTE@._V1_.jpg"
+    },
+    {
+      "name": "Padmaavat",
+      "year": 2018,
+      "description": "Set in medieval Rajasthan, 'Padmaavat' is a historical drama that tells the tale of Queen Padmavati, played by Deepika Padukone, whose beauty and valor attract the attention of Sultan Alauddin Khilji, played by Ranveer Singh. Khilji becomes obsessed with Padmavati and wages war against her husband, Maharawal Ratan Singh, played by Shahid Kapoor, to claim her. The film explores themes of love, jealousy, honor, and sacrifice. It showcases the courage of Padmavati and the resilience of the Rajput community. 'Padmaavat' was embroiled in controversies prior to its release but received praise for its grandeur, performances, and visual effects.","rated":"20",
+      "rating":"75",
+      "image":"https://miro.medium.com/v2/resize:fit:800/1*dGHz5JlXpkD3CIH8xIUmng.jpeg"
+    },
+    {
+      "name": "Gully Boy",
+      "year": 2019,
+      "description": "'Gully Boy' is a musical drama that revolves around the life of Murad, a young man from a poor family in Mumbai with dreams of becoming a rapper. Inspired by the street rap scene, Murad navigates the challenges of poverty, societal expectations, and his own insecurities to pursue his passion for music. With the support of his friends, mentors, and love interest Safeena, Murad embarks on a journey of self-expression and self-discovery. 'Gully Boy' showcases the vibrant hip-hop culture in Mumbai's slums and addresses issues of class struggle, identity, and aspiration. The film received critical acclaim for its storytelling, performances, and music.",
+      "rated":"20",
+      "rating":"53",
+      "image":"https://upload.wikimedia.org/wikipedia/en/0/07/Gully_Boy_poster.jpg"
+    },
+    {
+      "name": "Dangal",
+      "year": 2016,
+      "description": "'Dangal' is a biographical sports drama based on the true story of former wrestler Mahavir Singh Phogat and his daughters Geeta and Babita Phogat. Mahavir, played by Aamir Khan, dreams of winning a gold medal for India in wrestling but is unable to fulfill his dream. Determined to realize his dream through his daughters, Mahavir trains them rigorously in wrestling from a young age. Despite facing societal prejudices and challenges, Geeta and Babita rise to become champion wrestlers. 'Dangal' celebrates the achievements of the Phogat sisters and challenges gender norms and stereotypes in Indian society. The film was a massive commercial success and received widespread acclaim.",
+      "rated":"20",
+      "rating":"85",
+      "image":"https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "Baahubali: The Beginning",
+      "year": 2015,
+      "description": "'Baahubali: The Beginning' is an epic fantasy film directed by S.S. Rajamouli. The story revolves around Shivudu, a young man who learns about his heritage and sets out to reclaim the kingdom of Mahishmati from an oppressive ruler. Filled with grand visuals, powerful action sequences, and compelling storytelling, the film captivated audiences across India. It's known for its breathtaking visuals, intricate plot, and memorable characters. The film's success paved the way for its sequel, 'Baahubali: The Conclusion', which became even more successful.",
+      "rated":"20",
+      "rating":"100",
+      "image":"https://www.hollywoodreporter.com/wp-content/uploads/2015/07/bahubali_warrior_poster_p_15.jpg"
+    },
+    {
+      "name": "Rangasthalam",
+      "year": 2018,
+      "description": "'Rangasthalam' is a period action drama set in the 1980s in a fictional village called Rangasthalam. The film follows Chitti Babu, a hearing-impaired man, who becomes involved in local politics and stands up against a corrupt village president. Directed by Sukumar, the film received acclaim for its authentic portrayal of village life, strong performances, and compelling storytelling. Ram Charan's portrayal of Chitti Babu earned him praise from critics and audiences alike.",
+      "rated":"20",
+      "rating":"80",
+      "image":"https://upload.wikimedia.org/wikipedia/en/5/5d/Rangasthalam.jpg"
+    },
+    {
+      "name": "KGF: Chapter 1",
+      "year": 2018,
+      "description": "'KGF: Chapter 1' is a Kannada-language action film directed by Prashanth Neel. The film is set in the Kolar Gold Fields and follows the journey of Rocky, a young man who rises from poverty to become a powerful underworld figure. The film's narrative, intense action sequences, and Yash's charismatic performance as Rocky received widespread acclaim. 'KGF: Chapter 1' became one of the highest-grossing Kannada films and garnered a massive fan following.",
+      "rated":"20",
+      "rating":"95",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLnms0OxpQTyGo6NalFIvYJAGlTVS53R_sRWZRMt4utA&s"
+    },
+    {
+      "name": "Vikram Vedha",
+      "year": 2017,
+      "description": "'Vikram Vedha' is a Tamil neo-noir action thriller directed by Pushkar-Gayathri. The film revolves around the cat-and-mouse game between Vikram, a ruthless police officer, and Vedha, a notorious gangster. As Vikram tries to capture Vedha, he is confronted with moral dilemmas and questions his own principles. The film's nonlinear narrative, strong performances by R. Madhavan and Vijay Sethupathi, and gripping screenplay received critical acclaim. 'Vikram Vedha' was both a commercial and critical success.",
+      "rated":"20",
+      "rating":"80",
+      "image":"https://upload.wikimedia.org/wikipedia/en/0/03/Vikram_Vedha_poster.jpg"
+    },
+    {
+      "name": "Drishyam",
+      "year": 2013,
+      "description": "'Drishyam' is a Malayalam thriller film directed by Jeethu Joseph, which has been remade in several Indian languages due to its universal appeal. The film follows Georgekutty, a simple cable TV operator, who devises a clever plan to protect his family from the consequences of an accidental crime committed by his daughter. Mohanlal's nuanced performance as Georgekutty and the film's gripping narrative kept audiences on the edge of their seats. 'Drishyam' is celebrated for its tight screenplay, suspenseful storytelling, and realistic portrayal of family dynamics.",
+      "rated":"20",
+      "rating":"90",
+      "image":"https://upload.wikimedia.org/wikipedia/en/6/69/Drushyam_poster.jpg"
+    },
+    {
+      "name": "Premam",
+      "year": 2015,
+      "description": "'Premam' is a coming-of-age romantic drama directed by Alphonse Puthren. The film follows the journey of George, a young man who falls in love with three different women at different stages of his life. 'Premam' is celebrated for its fresh storytelling, realistic portrayal of relationships, and memorable music. Nivin Pauly's charismatic performance as George and the film's nostalgic charm resonated with audiences across generations. 'Premam' became a blockbuster hit and is considered one of the defining films of Malayalam cinema.",
+      "rated":"20",
+      "rating":"70",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQntmtHkhalFhrxiW1qzPZvWI-S9DNfmgZwkQ&s"
+    },
+    {
+      "name": "Inception",
+      "year": 2010,
+      "description": "'Inception' is a mind-bending science fiction thriller directed by Christopher Nolan. The film follows Dom Cobb, a skilled thief who specializes in entering people's dreams to steal their secrets. When offered a chance to regain his old life by planting an idea into someone's mind, Cobb assembles a team and dives into a complex world where dreams and reality intertwine. As they navigate through layers of dreams within dreams, the team faces unexpected challenges and personal demons. 'Inception' is celebrated for its innovative storytelling, breathtaking visuals, and thought-provoking themes about the nature of reality, dreams, and the subconscious mind.",
+      "rated": 20,
+      "rating": 80,
+      "image": "https://m.media-amazon.com/images/I/51aRBUfrreL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "The Dark Knight",
+      "year": 2008,
+      "description": "'The Dark Knight' is a superhero film directed by Christopher Nolan, featuring Batman's struggle against the chaotic Joker, portrayed by Heath Ledger. The film explores themes of justice, morality, and the nature of heroism in a world filled with corruption and crime. Ledger's iconic performance as the Joker earned him a posthumous Academy Award for Best Supporting Actor. 'The Dark Knight' is praised for its gripping storyline, intense action sequences, and complex characters. It's considered one of the best superhero films ever made and has left a lasting impact on the genre.",
+      "rated": 20,
+      "rating": 75,
+      "image": "https://rukminim2.flixcart.com/image/850/1000/kzzw5u80/poster/o/g/b/large-dark-knight-joker-quote-movie-poster-print-poster-on-large-original-imagbvmyqpzhgqyz.jpeg?q=20&crop=false"
+    },
+    {
+      "name": "Interstellar",
+      "year": 2014,
+      "description": "'Interstellar' is a science fiction epic directed by Christopher Nolan. The film follows a group of astronauts who embark on a journey through a wormhole near Saturn to find a new habitable planet as Earth faces environmental collapse. As they travel through different worlds and dimensions, the astronauts encounter challenges that test their resolve, scientific knowledge, and emotional strength. 'Interstellar' is praised for its ambitious storytelling, stunning visuals, and emotional depth. It explores themes of love, time dilation, and the survival of humanity. The film's scientific accuracy and emotional resonance have made it a favorite among science fiction fans.",
+      "rated": 20,
+      "rating": 98,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5n8_PZ4Y8u8CYeyYCOx3zrNYD6mPltGBIN-05jG56HQ&s"
+    },
+    {
+      "name": "Forrest Gump",
+      "year": 1994,
+      "description": "'Forrest Gump' is a heartwarming drama directed by Robert Zemeckis. The film follows Forrest Gump, a slow-witted but kind-hearted man from Alabama, who witnesses and unwittingly influences several defining historical events in America from the 1950s to the 1980s. Despite his challenges, Forrest's optimism and simple wisdom enable him to achieve remarkable success in various endeavors, from football to running across the country. 'Forrest Gump' is celebrated for its touching story, memorable characters, and powerful performances, especially Tom Hanks' portrayal of Forrest. The film won multiple Academy Awards, including Best Picture, and remains a beloved classic.",
+      "rated": 20,
+      "rating": 75,
+      "image": "https://m.media-amazon.com/images/I/717C4+q+CrL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "The Shawshank Redemption",
+      "year": 1994,
+      "description": "'The Shawshank Redemption' is a drama film directed by Frank Darabont, based on Stephen King's novella 'Rita Hayworth and Shawshank Redemption'. The film tells the story of Andy Dufresne, a banker who is wrongly convicted of murder and sentenced to life in Shawshank State Penitentiary. Inside the prison, Andy befriends Red, an inmate, and maintains hope and integrity amidst the harsh realities of prison life. 'The Shawshank Redemption' explores themes of friendship, hope, redemption, and the resilience of the human spirit. Despite its initial box office disappointment, the film gained popularity through word of mouth and is now considered one of the greatest films of all time.",
+      "rated": 20,
+      "rating": 90,
+      "image": "https://m.media-amazon.com/images/I/51WYsbIa7TS._AC_UF1000,1000_QL80_.jpg"
+    }
+]
+}
